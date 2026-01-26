@@ -80,7 +80,7 @@ react-projects/
 │   ├── README.md
 │   └── package.json
 │
-└── README.md   # You are here
+└── README.md   
 ```
 
 ---
