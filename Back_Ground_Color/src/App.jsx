@@ -1,5 +1,5 @@
 
-import Color from "./BG";
+import Color from "./Bg";
 function App() {
   return(
     <>
